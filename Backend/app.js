@@ -11,6 +11,7 @@ const bookingRouter = require("./controllers/booking");
 const spaceRouter = require("./controllers/spaceRouter");
 const cors = require("cors");
 const reviewRouter = require("./controllers/review");
+const path = require("path");
 
 // Set body-parser
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -22,6 +23,17 @@ app.use(cors());
 
 // Connect Database
 connectDB();
+
+app.use(
+  express.static(path.join(__dirname, "../Frontend/rent_spot_frontend/build"))
+);
+
+// Serve the index.html file for any other routes
+app.get("*", (req, res) => {
+  res.sendFile(
+    path.join(__dirname, "../Frontend/rent_spot_frontend/build", "index.html")
+  );
+});
 
 app.get("/", isLoggedIn, async (req, res) => {
   res.json({ message: "Hello world!" });
