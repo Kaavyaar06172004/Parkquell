@@ -63,7 +63,7 @@ const Layout = () => {
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse" id="navbarNavDropdown">
-            <ul className="navbar-nav align-items-center mb-20">
+            <ul className="navbar-nav ms-auto align-items-center">
               <li className="nav-item">
                 <Link className="nav-link" to="/">
                   Home
