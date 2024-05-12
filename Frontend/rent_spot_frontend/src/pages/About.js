@@ -8,12 +8,12 @@ const About = () => {
         <div className="row py-5 my-5">
           <h2 className="mb-3">About Us</h2>
           <p>
-            ParkQuell aims to establish a platform that connects parking
-            owners within the community with users in search of affordable
-            parking spaces. Our web application assists parking owners in
-            effectively renting out their additional parking spaces, providing
-            them with an opportunity to earn extra income. Additionally, rent a
-            Spot facilitates users in finding cost-effective parking spaces.
+            ParkQuell aims to establish a platform that connects parking owners
+            within the community with users in search of affordable parking
+            spaces. Our web application assists parking owners in effectively
+            renting out their additional parking spaces, providing them with an
+            opportunity to earn extra income. Additionally, rent a Spot
+            facilitates users in finding cost-effective parking spaces.
           </p>
         </div>
 
@@ -44,16 +44,16 @@ const About = () => {
             <div className="text-right">
               <h3>Parking Owner</h3>
               <p>
-                The ParkQuell web application offers a professional service
-                for parking owners from the community, enabling them to
-                efficiently rent out their extra parking spaces and generate
-                additional income. Our platform lets parking owners easily list
-                their available spots, provide essential details, and set
-                competitive rental prices. Our user-friendly interface ensures a
-                seamless experience, allowing owners to manage their listings,
+                The ParkQuell web application offers a professional service for
+                parking owners from the community, enabling them to efficiently
+                rent out their extra parking spaces and generate additional
+                income. Our platform lets parking owners easily list their
+                available spots, provide essential details, and set competitive
+                rental prices. Our user-friendly interface ensures a seamless
+                experience, allowing owners to manage their listings,
                 communicate with potential renters, and finalize bookings. With
-                ParkQuell, parking owners can maximize the utilization of
-                their parking spaces and unlock a new source of revenue. Start
+                ParkQuell, parking owners can maximize the utilization of their
+                parking spaces and unlock a new source of revenue. Start
                 utilizing our platform today and experience the benefits of
                 hassle-free and profitable parking space management.
               </p>

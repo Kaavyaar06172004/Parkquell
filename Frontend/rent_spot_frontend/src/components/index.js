@@ -3,4 +3,4 @@ import ParkingCard from "./ParkingCard/ParkingCard";
 import StarRating from "./StarRating/StarRating";
 import SpaceCard from "./SpaceCard/SpaceCard";
 
-export { ParkingCard, SpaceCard, DeleteModal, StarRating }
+export { ParkingCard, SpaceCard, DeleteModal, StarRating };

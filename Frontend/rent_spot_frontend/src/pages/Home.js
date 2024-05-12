@@ -75,18 +75,17 @@ function Home() {
               <div className="testimonial-card p-3 rounded text-center">
                 <img src="./profile-1.jpeg" alt="user avatar" />
                 <p className="mt-4 mb-3">
-                  "I recently used Rent A Spot, a parking booking website, and I
-                  was thoroughly impressed with the service. The Rent-A-Spot
-                  website was user-friendly and easy to navigate, allowing me to
-                  quickly find and book a parking spot for my trip. The process
-                  was seamless, and I received a confirmation email from
-                  Rent-A-Spot with all the necessary details. On the day of my
-                  arrival, the Rent-A-Spot parking lot was well-maintained and
-                  had ample space. I highly recommend Rent A Spot to anyone in
-                  need of convenient and reliable parking options."
+                  "Living in a bustling city like Mumbai, finding a parking spot
+                  used to be a daily nightmare. Thanks to the ParkQuell app, my
+                  life has become so much easier! Now, I can effortlessly book a
+                  parking spot in advance, saving me valuable time and
+                  eliminating the stress of circling around endlessly in search
+                  of parking. The app's intuitive interface and seamless booking
+                  process make it a must-have for anyone navigating India's
+                  crowded streets. Highly recommended!"
                 </p>
                 <span>
-                  <strong>Harry</strong> Manager at Google
+                  <strong>Muqeemudeen M</strong> Manager at Google
                 </span>
               </div>
             </div>
@@ -94,19 +93,17 @@ function Home() {
               <div className="testimonial-card p-3 rounded text-center">
                 <img src="./profile-1.webp" alt="user avatar" />
                 <p className="mt-4 mb-3">
-                  "I cannot express how grateful I am for Rent A Spot, the
-                  parking booking website. Rent A Spot has made the process
-                  incredibly convenient and stress-free. With just a few clicks
-                  on the Rent-A-Spot website, I can compare prices and book a
-                  parking spot in advance. Rent A Spot provides detailed
-                  information about each parking facility, including reviews
-                  from other users, which helped me make informed decisions. On
-                  multiple occasions, I arrived at my destination to find a
-                  reserved spot waiting for me, thanks to Rent A-Spot. This
-                  website is a game-changer for travellers like me"
+                  "As a frequent traveler, I rely on the ParkQuell app whenever
+                  I'm on the road in India. Whether it's for a quick stop in the
+                  city or a long-term parking solution at the airport, this app
+                  has never let me down. With its wide network of parking
+                  facilities across the country, I can always find a convenient
+                  and secure spot for my vehicle, no matter where my journey
+                  takes me. Efficient, reliable, and incredibly convenient –
+                  this app has truly revolutionized the way I park!"
                 </p>
                 <span>
-                  <strong>Mill</strong> Co-founder at Tim Hortons
+                  <strong>Saif</strong> Co-founder at Tim Hortons
                 </span>
               </div>
             </div>

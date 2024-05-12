@@ -63,7 +63,7 @@ const Layout = () => {
             <span className="navbar-toggler-icon"></span>
           </button>
           <div className="collapse navbar-collapse" id="navbarNavDropdown">
-            <ul className="navbar-nav ms-auto align-items-center">
+            <ul className="navbar-nav align-items-center mb-20">
               <li className="nav-item">
                 <Link className="nav-link" to="/">
                   Home
@@ -149,7 +149,7 @@ const Layout = () => {
       <footer className="container-fluid p-5 mt-5">
         <div className="row">
           <div className="col-md-4">
-            <p>
+            <p className="">
               Copyright &copy; 2024 by <strong>ParkQuell</strong>
             </p>
           </div>
