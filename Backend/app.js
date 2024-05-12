@@ -17,7 +17,7 @@ const path = require("path");
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-const port = process.env.PORT || 5000;
+const port = 5000;
 
 app.use(cors());
 
