@@ -60,7 +60,7 @@ function Home() {
                 <div className="mt-4">
                   <h3>Park</h3>
                   <p className="mt-3">
-                    Park your car safely with <strong>ParlQuell</strong>.
+                    Park your car safely with <strong>ParkQuell</strong>.
                   </p>
                 </div>
               </div>
